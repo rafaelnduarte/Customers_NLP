@@ -10,5 +10,5 @@ This is one of the three notebooks on my **Customer Segmentation** project. To u
 
 
 Make sure you check out the other parts:
->* [Forecasting Sales with Prophet]('')
->* [RFM Customer Segmentation - K-Means]('')
+>* [Forecasting Sales with Prophet](https://github.com/rafaelnduarte/Sales_Forecast_Prophet)
+>* [RFM Customer Segmentation - K-Means](https://github.com/rafaelnduarte/RFM_Customer_Segmentation)
